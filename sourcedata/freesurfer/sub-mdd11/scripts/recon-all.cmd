@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/ZP/8Z/MD5E-s4687--4fc3b1940312b9563446885c9d2f1dbc.cmd/MD5E-s4687--4fc3b1940312b9563446885c9d2f1dbc.cmd
+/annex/objects/MD5E-s4687--4fc3b1940312b9563446885c9d2f1dbc.cmd
