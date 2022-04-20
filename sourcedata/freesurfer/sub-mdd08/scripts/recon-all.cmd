@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s8227--4566640657f5667103683b9c79e14cc8.cmd
+../../../../.git/annex/objects/mm/5F/MD5E-s8227--4566640657f5667103683b9c79e14cc8.cmd/MD5E-s8227--4566640657f5667103683b9c79e14cc8.cmd
