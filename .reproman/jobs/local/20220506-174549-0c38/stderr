@@ -1,1 +1,7 @@
-../../../../.git/annex/objects/8P/k9/MD5E-s311--6bbd154211e8d46f14ff27f6722fe454/MD5E-s311--6bbd154211e8d46f14ff27f6722fe454
+Warning: Permanently added 'c110-152' (ED25519) to the list of known hosts.
+WARNING (05/07/22 15:08:27): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4311918.hostlist.gRgrdGfo to get hosts
+starting job on c110-152
+starting job on c110-212
+starting job on c111-022
+Terminated

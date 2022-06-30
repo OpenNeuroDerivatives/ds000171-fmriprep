@@ -1,1 +1,3 @@
-../../../../.git/annex/objects/GP/J0/MD5E-s522--7b514614b5af09fb7e8f4c42b7a4fd3f.10/MD5E-s522--7b514614b5af09fb7e8f4c42b7a4fd3f.10
+pandoc: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000171-fmriprep/logs/CITATION.md: openBinaryFile: does not exist (No such file or directory)
+Could not generate CITATION.tex file:
+pandoc -s --bibliography /opt/conda/lib/python3.8/site-packages/fmriprep/data/boilerplate.bib --natbib /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000171-fmriprep/logs/CITATION.md -o /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000171-fmriprep/logs/CITATION.tex
